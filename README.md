@@ -72,7 +72,7 @@ A Power BI dashboard solution analyzing 13 months of operational data (March 202
 **Sudais Abdul Hamid**  
 *Business Intelligence Analyst*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/sudais-abdul/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sudais-abdul/))
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Sudais143)
 
 ---
